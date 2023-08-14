@@ -15,7 +15,7 @@ Put the required pngs in the same folder as uncrush.py and execute
 
 Note that the pngs will be overwrited
 
-## unpack.py
+# unpack.py
 Use this script to unpack .png sprites from the spritesheet packed by [TexturePacker](http://www.codeandweb.com/texturepacker/).
 
 ## Usage
@@ -23,7 +23,7 @@ Put the required .png file near a .plist or .json in the same folder as unpacker
 
     python unpack.py <filename> [<format>]
 
-###Example
+### Example
 
     python unpack.py Sprite 
  
