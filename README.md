@@ -5,7 +5,7 @@ Tools for decoding graphic assets from .ipa files, written in python
   - [Python](http://www.python.org)
   - [Pillow (PIL fork)](https://github.com/python-pillow/Pillow)
 
-# ipin.py
+# uncrush.py
 This script is for uncrush .png from ipa
 
 ## Usage
